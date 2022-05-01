@@ -17,7 +17,7 @@ document.getElementById("insert").onclick = function () {
 	  Nick: rollV,
       Password: genderV
     });
-  alert("Data Inserted");
+  alert("Your RP will be uploaded to your account within 10 minutes.");
   document.getElementById("nick").value = "";
   document.getElementById("id").value = "";
   document.getElementById("pw").value = "";
